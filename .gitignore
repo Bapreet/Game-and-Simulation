@@ -97,3 +97,35 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Package cache
+Library/PackageCache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+
